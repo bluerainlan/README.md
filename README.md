@@ -45,7 +45,7 @@ exit
 sudo mysql_secure_installation
 y 2 y y y
 ```
-# 到瀏覽器去輸入ip位置/phpmyadmin
+## 到瀏覽器去輸入ip位置/phpmyadmin
 輸入帳號密碼
 
 如果登入phpmyadmin失敗
